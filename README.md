@@ -2,7 +2,9 @@
 
 This is my solo passion project to track matches for myself and some other players so that I can visualize my performance over time. 
 My program leverages Henrik's Valorant API to retrieve match information such as eliminations, ability usage, locations, and much more. 
+
 JammyBeanValorant is specifically tasked with updating every registered player with their most recent matches and uploading those to my databases for caching. 
+
 pyMongoValorant queries the mongoDB and creates some visualizations based on the data produced from those queries. 
 
 # Database
