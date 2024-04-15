@@ -5,11 +5,6 @@ My program leverages Henrik's Valorant API to retrieve match information such as
 JammyBeanValorant is specifically tasked with updating every registered player with their most recent matches and uploading those to my databases for caching. 
 pyMongoValorant queries the mongoDB and creates some visualizations based on the data produced from those queries. 
 
-# Function
-
-Valorant Tracking is specifically tasked with updating every registered player with their most recent matches and uploading those to my databases for caching. 
-pyMongoValorant queries the mongoDB and creates some visualizations based on the data produced from those queries. 
-
 # Database
 
 I currently utilize two databases, one using MariaDB (SQL) and the other using MongoDB. Both of these databases I manage myself and are private collections. 
